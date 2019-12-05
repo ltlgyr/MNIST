@@ -1,0 +1,7 @@
+1. using the softmax_regression.py
+	make the model() and the data 
+2. using save.py
+	this while generate test jpg 
+3. using test.py
+	this will using the jpg to test the model
+4. train is data for learing
